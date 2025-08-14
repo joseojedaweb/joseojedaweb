@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Pepe Ojeda
 
 💻 **Desarrollador Full Stack Junior**  
-Especializado en el desarrollo de aplicaciones y sitios web dinámicos con tecnologías modernas y experiencia en proyectos reales para clientes.
+Apasionado por crear soluciones web dinámicas y eficientes. Experiencia desarrollando proyectos reales para clientes, desde el diseño hasta la implementación.
 
 ---
 
