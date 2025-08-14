@@ -21,7 +21,7 @@ Especializado en el desarrollo de aplicaciones y sitios web dinámicos con tecno
 ---
 
 ## 📂 Proyectos destacados
-- [**LowGim Theme**](https://github.com/joseojedaweb/lowgim-theme) — Tema personalizado de WordPress para un gimnasio 24/7 con WooCommerce y CPTs.
+- [**LowGim Theme**](https://github.com/joseojedaweb/lowgim-theme-repo) — Tema personalizado de WordPress para un gimnasio 24/7 con WooCommerce y CPTs.
 - *(Añadiré aquí más proyectos cuando los subas)*
 
 ---
