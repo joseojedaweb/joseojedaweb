@@ -28,7 +28,7 @@ Especializado en el desarrollo de aplicaciones y sitios web dinámicos con tecno
 
 ## 📫 Cómo contactarme
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ojeda-l%C3%B3pez/) 
-- 📧 **tuemail@example.com**
+- 📧 **joseojedaweb@gmail.com**
 - 🌐 [Portfolio Web](https://tuweb.com) *(opcional si la tienes)*
 
 ---
