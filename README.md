@@ -21,15 +21,19 @@ Apasionado por crear soluciones web dinámicas y eficientes. Experiencia desarro
 ---
 
 ## 📂 Proyectos destacados
-- [**LowGim Theme**](https://github.com/joseojedaweb/lowgim-theme-repo) — Tema personalizado de WordPress para un gimnasio 24/7 con WooCommerce y CPTs.
-- *(Añadiré aquí más proyectos cuando los subas)*
+
+- [**Web Lowgim**](https://github.com/joseojedaweb/web-lowgim) — Sitio web para gimnasio local con acceso 24h, planes de precios, área privada de clientes y tienda online. Tema WordPress totalmente personalizado con integración WooCommerce.
+
+- [**Web Tapas Me The Plate**](https://github.com/joseojedaweb/web-tapas-me-the-plate) — Tema WordPress personalizado para un catering de alta cocina. Incluye sistema de reservas en varios pasos, gestión de clientes y personalización de WooCommerce.
+
+- [**Biblioteca Gestión Libros**](https://github.com/joseojedaweb/biblioteca-gestion-libros) — Aplicación web en Laravel 11 para la gestión de libros y préstamos en un entorno escolar. Incluye registro/login, integración con API OpenLibrary y control de stock.
 
 ---
 
 ## 📫 Cómo contactarme
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ojeda-l%C3%B3pez/) 
 - 📧 **joseojedaweb@gmail.com**
-- 🌐 [Portfolio Web](https://tuweb.com) *(opcional si la tienes)*
+- 🌐 [Portfolio Web] Actualmente en desarrollo
 
 ---
 
