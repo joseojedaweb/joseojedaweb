@@ -30,6 +30,8 @@ Apasionado por crear soluciones web dinámicas y eficientes. Experiencia desarro
 
 - [**Biblioteca Gestión Libros**](https://github.com/joseojedaweb/biblioteca-gestion-libros) — Aplicación web en Laravel 11 para la gestión de libros y préstamos en un entorno escolar. Incluye registro/login, integración con API OpenLibrary y control de stock.
 
+- [**Java CRUD Zoológico**](https://github.com/joseojedaweb/java-crud-zoologico) — Aplicación de escritorio en Java con interfaz Swing y base de datos MySQL. Implementa un sistema CRUD para la gestión de animales en un zoológico, con operaciones de alta, consulta, actualización y eliminación.
+
 ---
 
 ## 📫 Cómo contactarme
