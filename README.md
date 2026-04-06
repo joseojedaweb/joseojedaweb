@@ -24,13 +24,13 @@ Apasionado por crear soluciones web dinámicas y eficientes. Experiencia desarro
 
 ## 📂 Proyectos destacados
 
-- [**Web Lowgim**](https://github.com/joseojedaweb/web-lowgim) — Sitio web para gimnasio local con acceso 24h, planes de precios, área privada de clientes y tienda online. Tema WordPress totalmente personalizado con integración WooCommerce.
+- [**Web Lowgim**](https://github.com/joseojedaweb/web-lowgim) — Sitio web para gimnasio local con acceso 24h, planes de precios, área privada de clientes y tienda online. Tema WordPress totalmente personalizado con integración WooCommerce. (PROYECTO DURANTE LAS PRACTICAS DE EMPRESA)
 
-- [**Web Tapas Me The Plate**](https://github.com/joseojedaweb/web-tapas-me-the-plate) — Tema WordPress personalizado para un catering de alta cocina. Incluye sistema de reservas en varios pasos, gestión de clientes y personalización de WooCommerce.
+- [**Web Tapas Me The Plate**](https://github.com/joseojedaweb/web-tapas-me-the-plate) — Tema WordPress personalizado para un catering de alta cocina. Incluye sistema de reservas en varios pasos, gestión de clientes y personalización de WooCommerce. (PROYECTO DURANTE LAS PRACTICAS DE EMPRESA)
 
-- [**Biblioteca Gestión Libros**](https://github.com/joseojedaweb/biblioteca-gestion-libros) — Aplicación web en Laravel 11 para la gestión de libros y préstamos en un entorno escolar. Incluye registro/login, integración con API OpenLibrary y control de stock.
+- [**Biblioteca Gestión Libros**](https://github.com/joseojedaweb/biblioteca-gestion-libros) — Aplicación web en Laravel 11 para la gestión de libros y préstamos en un entorno escolar. Incluye registro/login, integración con API OpenLibrary y control de stock. (PROYECTO ESCOLAR SEGUNDO AÑO DE GRADO SUPERIOR DE DAW | PHP)
 
-- [**Java CRUD Zoológico**](https://github.com/joseojedaweb/proyecto-simple-zoologico--CRUD--java-) — Aplicación de escritorio en Java con interfaz Swing y base de datos MySQL. Implementa un sistema CRUD para la gestión de animales en un zoológico, con operaciones de alta, consulta, actualización y eliminación.
+- [**Java CRUD Zoológico**](https://github.com/joseojedaweb/proyecto-simple-zoologico--CRUD--java-) — Aplicación de escritorio en Java con interfaz Swing y base de datos MySQL. Implementa un sistema CRUD para la gestión de animales en un zoológico, con operaciones de alta, consulta, actualización y eliminación. (PROYECTO ESCOLAR PRIMER AÑO DE GRADO SUPERIOR DE DAW | JAVA)
 
 ---
 
