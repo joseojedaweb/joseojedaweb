@@ -37,7 +37,7 @@ Apasionado por crear soluciones web dinámicas y eficientes. Experiencia desarro
 ## 📫 Cómo contactarme
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ojeda-l%C3%B3pez/) 
 - 📧 **joseojedaweb@gmail.com**
-- 🌐 [Portfolio Web] Actualmente en desarrollo
+- 🌐 https://www.joseojedaweb.com/
 
 ---
 
