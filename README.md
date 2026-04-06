@@ -24,7 +24,7 @@ Apasionado por crear soluciones web dinámicas y eficientes. Experiencia desarro
 
 ## 📂 Proyectos destacados
 
-- [**Web Lowgim**](https://github.com/joseojedaweb/web-lowgim) — Sitio web para gimnasio local con acceso 24h, planes de precios, área privada de clientes y tienda online. Tema WordPress totalmente personalizado con integración WooCommerce. <a>(PROYECTO DURANTE LAS PRACTICAS DE EMPRESA)</a>
+- [**Web Lowgim**](https://github.com/joseojedaweb/web-lowgim) — Sitio web para gimnasio local con acceso 24h, planes de precios, área privada de clientes y tienda online. Tema WordPress totalmente personalizado con integración WooCommerce. <strong>(PROYECTO DURANTE LAS PRACTICAS DE EMPRESA)</strong>
 
 - [**Web Tapas Me The Plate**](https://github.com/joseojedaweb/web-tapas-me-the-plate) — Tema WordPress personalizado para un catering de alta cocina. Incluye sistema de reservas en varios pasos, gestión de clientes y personalización de WooCommerce. (PROYECTO DURANTE LAS PRACTICAS DE EMPRESA)
 
